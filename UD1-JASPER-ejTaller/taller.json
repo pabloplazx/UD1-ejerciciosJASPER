@@ -1,0 +1,25 @@
+{
+  "idOrden": "REP-2026-885",
+  "cliente": "Sofía Aranda",
+  "dispositivo": "Portátil HP Pavilion Gaming",
+  "averiaReportada": "El equipo se apaga solo al jugar",
+  "fechaSalida": "22/01/2026",
+  "totalNeto": 185.50,
+  "intervenciones": [
+    {
+      "accion": "Limpieza interna de ventiladores",
+      "horas": 0.5,
+      "precio": 25.00
+    },
+    {
+      "accion": "Sustitución pasta térmica",
+      "horas": 1.0,
+      "precio": 40.50
+    },
+    {
+      "accion": "Reballing de tarjeta gráfica",
+      "horas": 2.0,
+      "precio": 120.00
+    }
+  ]
+}
