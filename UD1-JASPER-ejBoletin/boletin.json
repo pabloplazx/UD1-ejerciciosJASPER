@@ -1,0 +1,28 @@
+{
+  "nombreAlumno": "Laura Martínez",
+  "curso": "2º DAM",
+  "centroEducativo": "IES Tecnológico",
+  "notaMedia": 8.75,
+  "asignaturas": [
+    {
+      "materia": "Acceso a Datos",
+      "calificacion": 9.5,
+      "observacion": "Excelente trabajo"
+    },
+    {
+      "materia": "Desarrollo de Interfaces",
+      "calificacion": 8.0,
+      "observacion": "Buen diseño"
+    },
+    {
+      "materia": "Empresa e Iniciativa",
+      "calificacion": 6.5,
+      "observacion": "Falta participación"
+    },
+    {
+      "materia": "Programación Multimedia",
+      "calificacion": 9.0,
+      "observacion": "Muy completa"
+    }
+  ]
+}
