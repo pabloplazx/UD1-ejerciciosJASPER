@@ -1,0 +1,18 @@
+{
+  "numeroFactura": "F-2024-0099",
+  "cliente": "Consultora Tecnológica S.L.",
+  "fechaEmision": "21/01/2026",
+  "totalFactura": 1550.50,
+  "lineas": [
+    {
+      "concepto": "Desarrollo Web",
+      "cantidad": 40,
+      "precioUnitario": 25.00
+    },
+    {
+      "concepto": "Mantenimiento Servidor",
+      "cantidad": 1,
+      "precioUnitario": 550.50
+    }
+  ]
+}
